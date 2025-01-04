@@ -1,6 +1,6 @@
 # Typescript Bootcamp Çalışması
 
-## [Github]()
+## [Github](https://github.com/furkanmar/Typescript_bootcamp)
 
 ## Git
 
@@ -13,6 +13,8 @@ git push -u origin master
 
 git status
 git log
+
+git clone https://github.com/furkanmar/Typescript_bootcamp
 ```
 
 ---
