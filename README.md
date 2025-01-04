@@ -23,6 +23,8 @@ git clone https://github.com/furkanmar/Typescript_bootcamp
 
 ```sh
 Nodejs: https://nodejs.org/en
+Visual Studio Code (vs code) : https://code.visualstudio.com/
+Git download : https://git-scm.com/downloads/win
 ```
 
 ---
@@ -34,6 +36,14 @@ code .
 node -v
 npm -v
 git -v
+```
+
+---
+
+## Typescript
+
+```sh
+
 ```
 
 ---
